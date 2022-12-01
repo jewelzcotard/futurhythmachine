@@ -12,7 +12,7 @@ jewelz_cotard99@protonmail.com
 
 -------------------------
 
-![GUI](/gui.jpeg.png?raw=true "GUI")
+![GUI](/gui.jpeg?raw=true "GUI")
 
 -------------------------
 
