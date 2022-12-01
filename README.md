@@ -12,7 +12,7 @@ jewelz_cotard99@protonmail.com
 
 -------------------------
 
-.vst and MobMuPlat versions will be uploaded here soon :)
+.vst and MobMuPlat versions will be uploaded here soon
 
 -------------------------
 
