@@ -12,6 +12,10 @@ jewelz_cotard99@protonmail.com
 
 -------------------------
 
+![GUI](/gui.jpeg.png?raw=true "GUI")
+
+-------------------------
+
 .vst and MobMuPlat versions will be uploaded here soon
 
 -------------------------
