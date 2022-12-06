@@ -12,6 +12,11 @@ jewelz_cotard99@protonmail.com
 
 -------------------------
 
+Video demo:
+https://www.youtube.com/watch?v=X_bU3I2JaTg
+
+-------------------------
+
 ![GUI](/gui.jpeg?raw=true "GUI")
 
 -------------------------
