@@ -8,8 +8,6 @@ To run, open the file named ‘futurhythmachine.pd’.
 
 Some basic instructions can be accessed by clicking on 'pd help' on the right hand side of the patch.
 
-jewelz_cotard99@protonmail.com
-
 -------------------------
 
 Video demo:
