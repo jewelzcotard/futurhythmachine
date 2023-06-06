@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=X_bU3I2JaTg
 -------------------------
 
 MobMuPlat template for mobile & tablets (iOS & Android):
-![mmp](futurhythmachine/blob/main/mobmuplat_frm.jpg?raw=true "MobMuPlat")
+![mmp](/mobmuplat_frm.jpg?raw=true "MobMuPlat")
 
 -------------------------
 
