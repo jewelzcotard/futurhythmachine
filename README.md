@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=X_bU3I2JaTg
 MobMuPlat template for mobile & tablets (iOS & Android):
 ![mmp](/mobmuplat_frm.jpg?raw=true "MobMuPlat")
 
+iPad video demo:
+https://www.youtube.com/watch?v=YV58Lx3rqtk
+
 -------------------------
 
 .vst version will be uploaded here soon
