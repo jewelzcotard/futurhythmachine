@@ -19,10 +19,8 @@ https://www.youtube.com/watch?v=X_bU3I2JaTg
 
 -------------------------
 
-
-MobMuPlat template for iPad:
-![ipad1](/futurhythmachine_mmp_ipad/ipad1.jpeg?raw=true "ipad1")
-![ipad2](/futurhythmachine_mmp_ipad/ipad2.jpeg?raw=true "ipad2")
+MobMuPlat template for mobile & tablets (iOS & Android):
+![mmp](futurhythmachine/blob/main/mobmuplat_frm.jpg?raw=true "MobMuPlat")
 
 -------------------------
 
